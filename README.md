@@ -35,6 +35,12 @@ This is a Single Page Application (SPA) developed using ReactJS and Material UI.
    cd payment-app
    npm install
    npm start
+   
+2. Running the App:
+
+   ```sh
+   npm install
+   npm start
 
    
 ## Usage

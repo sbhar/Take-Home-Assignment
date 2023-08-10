@@ -33,10 +33,8 @@ This is a Single Page Application (SPA) developed using ReactJS and Material UI.
    ```sh
    git clone https://github.com/your-username/payment-app.git
    cd payment-app
-   npm install
-   npm start
    
-### 2. Running the App:
+### Running the App:
 
    ```sh
    npm install

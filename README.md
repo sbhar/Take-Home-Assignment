@@ -39,6 +39,8 @@ This is a Single Page Application (SPA) developed using ReactJS and Material UI.
    ```sh
    npm install
    npm start
+   ```
+   
 
    
 ## Usage
